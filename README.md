@@ -139,7 +139,7 @@ Vamos agora criar um script para realizar o deploy do contrato na rede blockchai
 - Copie este conteúdo para dentro do arquivo:
 
 ```ts
-import { IScriptFunctionInputs } from "types-gifflar/modules/commands/DeployContracts/dtos/IScriptFunctionInputs";
+import { IScriptFunctionInputs } from "@gifflar/types/modules/commands/DeployContracts/dtos/IScriptFunctionInputs";
 
 export default async ({ contracts }: IScriptFunctionInputs) => {
   const MessageContract = contracts["MessageContract"];
