@@ -58,7 +58,7 @@ Siga as tasks deste protocolo até o final. Se este protocolo está sendo usado 
 ## Instalação
 
 ```bash
-$ npm install -g git+https://github.com/GifflarJS-Framework/core.git#build
+$ npm install -g @gifflar/core
 ```
 
 ## Iniciando um projeto
