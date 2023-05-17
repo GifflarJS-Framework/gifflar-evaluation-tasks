@@ -53,7 +53,7 @@ Siga as tasks deste protocolo até o final. Se este protocolo está sendo usado 
 ## Requerimentos
 
 - Utilize o VSCode
-- Versão do node: 14.x.x
+- Versão do node: 16.x.x
 
 ## Instalação
 
